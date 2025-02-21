@@ -1,0 +1,10 @@
+Entire OpenAIs Ecosystem
+Whisper API - Speech to Text - 1$ per 1M characters (std model)
+OpenAI TTS API - Text to Speech - 1.5$ per 20000 words (std model)
+
+pip install openai==0.28.0
+pip install dotenv==0.0.5
+#OpenAI API Key
+pip install faiss-cpu openai
+pip install pydub
+pip install gtts
